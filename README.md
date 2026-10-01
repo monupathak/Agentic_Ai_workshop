@@ -49,6 +49,3 @@ The repo contains:
 - one notebook: Agentic_ai.ipynb
 - one PPT/PDF: AI for OR & Supply Chain-2.pdf
 
-If you want, I can also give you:
-1. a cleaner README.md content for this repo, or
-2. a short project summary suitable for GitHub.
